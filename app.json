@@ -7,18 +7,18 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94752631452",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~RvtikC6D#TI_BGBombjs3G8ibCybP7bTKB5_zfLaYRob2_0Mi0zY",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
